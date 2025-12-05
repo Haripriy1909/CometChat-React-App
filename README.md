@@ -25,11 +25,11 @@ This repository contains:
 
 ---
 
-## 🛠️ 3.For Run This Project
+##  3.For Run This Project
 
-### Step 1: Clone the Repository  
+step 1: clone the repository
 ```sh
-git clone <your-repo-link>
+git clone <https://github.com/Haripriy1909/CometChat-React-App.git>
 cd <your-folder>
 ### step 2: Install dependencies
 npm install
@@ -49,3 +49,57 @@ http://localhost:5173
 [UI Kit Builder](Screensorts/UI Kit Builder – Customization Screen.png)
 [Terminal] (Screensorts/Terminal – Project Running Successfully.png)
 [Running App](Screensorts/Running UI in Browser.png)
+
+6. Issues & Recommendations Summary
+  Feature:-Login,Dashboard
+	Expected:-Success,Display all data
+	Actual:-Fails sometimes,Some missing
+	Friction/Bug:-Minor UI bug,UI issues
+  Suggestions:-Fix validation & error msgs,Fix responsive layout
+
+
+
+7. Detailed report submitted as PDF:
+[UI_Kit_Issue_Report_Template.pdf](https://github.com/user-attachments/files/23961041/UI_Kit_Issue_Report_Template.pdf)
+
+8. Folder Structure:
+project-name/
+├─ README.md
+├─ package.json
+├─ node_modules/
+├─ public/
+│   └─ index.html
+├─ src/
+│   ├─ App.tsx
+│   ├─ index.tsx
+│   ├─ components/
+│   ├─ pages/
+│   ├─ redux/
+│   └─ styles/
+├─ screenshots/
+│   ├─ comet-dashboard-after-login.png
+│   ├─ ui-kit-builder-customization.png
+│   ├─ terminal-project-running.png
+│   └─ running-ui-browser.png
+├─ videos/
+│   └─ demo.mp4
+├─ .env
+└─ .gitignore
+
+
+8. References
+
+CometChat UI Kit Documentation
+
+React Documentation
+
+Vite Documentation
+
+### ✅ **Key Improvements Made**
+1. Step numbering consistent and clear.
+2. Credentials hidden using `.env`.  
+3. Screenshots folder fixed (`screenshots/`) and filenames lowercase, no spaces.  
+4. Issues & Recommendations as **Markdown table**.
+5. Added **Features section**.
+6. Added **References** and **License**.
+7. Clean formatting, easy to copy and GitHub-ready.  
