@@ -45,7 +45,6 @@ Step 5: Open in Browser
 http://localhost:5173
 
 4. screenshorts
-[Dashboard](Screensorts
-/CometChat Dashboard – After Login.png)
-[UI Kit Builder](./screenshots/UI-Kit-Builder.png)
+[Dashboard](Screensorts/CometChat Dashboard – After Login.png)
+[UI Kit Builder]()
 [Running App](./screenshots/Project-Running.png)
